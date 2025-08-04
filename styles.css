@@ -17,4 +17,6 @@ section {
     background: rgb(105, 28, 105);
  padding-bottom: 50px;
  padding-top: 50px;
+ display: flex;
+justify-content: center;
 }
