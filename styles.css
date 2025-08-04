@@ -1,7 +1,9 @@
 body {
 color:white;
 background: palevioletred;
+margin: 0px;
 }
+
 
 header {
     border-bottom: solid 3px rgb(198, 11, 42);
