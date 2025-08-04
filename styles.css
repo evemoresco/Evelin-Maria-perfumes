@@ -15,4 +15,6 @@ header {
 
 section {
     background: rgb(105, 28, 105);
+ padding-bottom: 80px;
+ padding-top: 80px;
 }
